@@ -1,5 +1,8 @@
 <Solution>
   <Project Path="JaggedArrays/JaggedArrays.csproj" />
+  <Project Path="SimpleLists01/SimpleLists01.csproj" />
+  <Project Path="SimpleLists02/SimpleLists02.csproj" />
   <Project Path="SingleDimensionalArrays/SingleDimensionalArrays.csproj" />
+  <Project Path="SortedLists/SortedLists.csproj" />
   <Project Path="SortingAlgorithms/SortingAlgorithms.csproj" />
 </Solution>
