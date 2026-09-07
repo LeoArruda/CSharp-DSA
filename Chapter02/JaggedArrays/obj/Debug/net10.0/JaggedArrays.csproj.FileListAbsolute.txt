@@ -1,0 +1,14 @@
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/JaggedArrays/bin/Debug/net10.0/JaggedArrays
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/JaggedArrays/bin/Debug/net10.0/JaggedArrays.deps.json
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/JaggedArrays/bin/Debug/net10.0/JaggedArrays.runtimeconfig.json
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/JaggedArrays/bin/Debug/net10.0/JaggedArrays.dll
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/JaggedArrays/bin/Debug/net10.0/JaggedArrays.pdb
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/JaggedArrays/obj/Debug/net10.0/JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/JaggedArrays/obj/Debug/net10.0/JaggedArrays.AssemblyInfoInputs.cache
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/JaggedArrays/obj/Debug/net10.0/JaggedArrays.AssemblyInfo.cs
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/JaggedArrays/obj/Debug/net10.0/JaggedArrays.csproj.CoreCompileInputs.cache
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/JaggedArrays/obj/Debug/net10.0/JaggedArrays.dll
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/JaggedArrays/obj/Debug/net10.0/refint/JaggedArrays.dll
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/JaggedArrays/obj/Debug/net10.0/JaggedArrays.pdb
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/JaggedArrays/obj/Debug/net10.0/JaggedArrays.genruntimeconfig.cache
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/JaggedArrays/obj/Debug/net10.0/ref/JaggedArrays.dll

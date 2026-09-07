@@ -1,0 +1,14 @@
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SortingAlgorithms/bin/Debug/net10.0/SortingAlgorithms
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SortingAlgorithms/bin/Debug/net10.0/SortingAlgorithms.deps.json
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SortingAlgorithms/bin/Debug/net10.0/SortingAlgorithms.runtimeconfig.json
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SortingAlgorithms/bin/Debug/net10.0/SortingAlgorithms.dll
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SortingAlgorithms/bin/Debug/net10.0/SortingAlgorithms.pdb
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SortingAlgorithms/obj/Debug/net10.0/SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SortingAlgorithms/obj/Debug/net10.0/SortingAlgorithms.AssemblyInfoInputs.cache
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SortingAlgorithms/obj/Debug/net10.0/SortingAlgorithms.AssemblyInfo.cs
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SortingAlgorithms/obj/Debug/net10.0/SortingAlgorithms.csproj.CoreCompileInputs.cache
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SortingAlgorithms/obj/Debug/net10.0/SortingAlgorithms.dll
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SortingAlgorithms/obj/Debug/net10.0/refint/SortingAlgorithms.dll
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SortingAlgorithms/obj/Debug/net10.0/SortingAlgorithms.pdb
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SortingAlgorithms/obj/Debug/net10.0/SortingAlgorithms.genruntimeconfig.cache
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SortingAlgorithms/obj/Debug/net10.0/ref/SortingAlgorithms.dll

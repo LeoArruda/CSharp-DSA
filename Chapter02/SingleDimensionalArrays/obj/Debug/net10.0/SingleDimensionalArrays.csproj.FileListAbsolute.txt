@@ -1,0 +1,14 @@
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SingleDimensionalArrays/bin/Debug/net10.0/SingleDimensionalArrays
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SingleDimensionalArrays/bin/Debug/net10.0/SingleDimensionalArrays.deps.json
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SingleDimensionalArrays/bin/Debug/net10.0/SingleDimensionalArrays.runtimeconfig.json
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SingleDimensionalArrays/bin/Debug/net10.0/SingleDimensionalArrays.dll
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SingleDimensionalArrays/bin/Debug/net10.0/SingleDimensionalArrays.pdb
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SingleDimensionalArrays/obj/Debug/net10.0/SingleDimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SingleDimensionalArrays/obj/Debug/net10.0/SingleDimensionalArrays.AssemblyInfoInputs.cache
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SingleDimensionalArrays/obj/Debug/net10.0/SingleDimensionalArrays.AssemblyInfo.cs
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SingleDimensionalArrays/obj/Debug/net10.0/SingleDimensionalArrays.csproj.CoreCompileInputs.cache
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SingleDimensionalArrays/obj/Debug/net10.0/SingleDimensionalArrays.dll
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SingleDimensionalArrays/obj/Debug/net10.0/refint/SingleDimensionalArrays.dll
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SingleDimensionalArrays/obj/Debug/net10.0/SingleDimensionalArrays.pdb
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SingleDimensionalArrays/obj/Debug/net10.0/SingleDimensionalArrays.genruntimeconfig.cache
+/Users/leandroarruda/projects/CsharpDSA/Chapter02/SingleDimensionalArrays/obj/Debug/net10.0/ref/SingleDimensionalArrays.dll
