@@ -1,0 +1,30 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio and .NET user files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Test results and coverage
+TestResults/
+*.trx
+coverage/
+
+# NuGet and generated project files
+*.nupkg
+*.snupkg
+packages/
+project.assets.json
+*.nuget.g.props
+*.nuget.g.targets
+
+# OS files
+.DS_Store
+Thumbs.db
