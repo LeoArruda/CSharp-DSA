@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="CircularLinkedList/CircularLinkedList.csproj" />
   <Project Path="JaggedArrays/JaggedArrays.csproj" />
   <Project Path="LinkedLists/LinkedLists.csproj" />
   <Project Path="SimpleLists01/SimpleLists01.csproj" />
