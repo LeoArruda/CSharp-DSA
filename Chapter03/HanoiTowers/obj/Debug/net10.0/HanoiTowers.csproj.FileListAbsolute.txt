@@ -1,0 +1,15 @@
+/Users/leandroarruda/projects/CsharpDSA/Chapter03/HanoiTowers/bin/Debug/net10.0/HanoiTowers
+/Users/leandroarruda/projects/CsharpDSA/Chapter03/HanoiTowers/bin/Debug/net10.0/HanoiTowers.deps.json
+/Users/leandroarruda/projects/CsharpDSA/Chapter03/HanoiTowers/bin/Debug/net10.0/HanoiTowers.runtimeconfig.json
+/Users/leandroarruda/projects/CsharpDSA/Chapter03/HanoiTowers/bin/Debug/net10.0/HanoiTowers.dll
+/Users/leandroarruda/projects/CsharpDSA/Chapter03/HanoiTowers/bin/Debug/net10.0/HanoiTowers.pdb
+/Users/leandroarruda/projects/CsharpDSA/Chapter03/HanoiTowers/obj/Debug/net10.0/HanoiTowers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leandroarruda/projects/CsharpDSA/Chapter03/HanoiTowers/obj/Debug/net10.0/HanoiTowers.AssemblyInfoInputs.cache
+/Users/leandroarruda/projects/CsharpDSA/Chapter03/HanoiTowers/obj/Debug/net10.0/HanoiTowers.AssemblyInfo.cs
+/Users/leandroarruda/projects/CsharpDSA/Chapter03/HanoiTowers/obj/Debug/net10.0/HanoiTowers.csproj.CoreCompileInputs.cache
+/Users/leandroarruda/projects/CsharpDSA/Chapter03/HanoiTowers/obj/Debug/net10.0/HanoiTowers.sourcelink.json
+/Users/leandroarruda/projects/CsharpDSA/Chapter03/HanoiTowers/obj/Debug/net10.0/HanoiTowers.dll
+/Users/leandroarruda/projects/CsharpDSA/Chapter03/HanoiTowers/obj/Debug/net10.0/refint/HanoiTowers.dll
+/Users/leandroarruda/projects/CsharpDSA/Chapter03/HanoiTowers/obj/Debug/net10.0/HanoiTowers.pdb
+/Users/leandroarruda/projects/CsharpDSA/Chapter03/HanoiTowers/obj/Debug/net10.0/HanoiTowers.genruntimeconfig.cache
+/Users/leandroarruda/projects/CsharpDSA/Chapter03/HanoiTowers/obj/Debug/net10.0/ref/HanoiTowers.dll
